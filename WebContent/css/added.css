@@ -1,0 +1,142 @@
+.error{
+border: 1px red solid;
+}
+.container{
+	margin:100px auto;
+    font-family: 'Droid Serif', serif;
+    width:940px;
+    height:800px;
+}
+.main {
+width: 420px;
+height : 800px;
+margin-left:150px;
+float:left;
+border:2px orange solid;
+padding: 10px 55px 40px;
+background-color:#FFCC99;
+font-size: 13px;
+}
+#cname,#cemail,#c1password,#c2password,#cmobileno{
+width: 97.7%;
+height: 34px;
+padding-left: 5px;
+margin-bottom: 20px;
+margin-top: 8px;
+box-shadow: 0 0 5px #00F5FF;
+border: 2px solid #00F5FF;
+color: #4f4f4f;
+font-size: 16px;
+}
+#logo1{
+	margin-left: 120px;
+	margin-bottom:10px;
+	
+}
+
+/* h2{
+text-align: center;
+font-size: 24px;
+} */
+label{
+color: #464646;
+text-shadow: 0 1px 0 #fff;
+font-size: 11px;
+font-weight: bold;
+
+}
+#cday,#cmonth,#cyear{
+  	width: 15%;
+  	height: 24px;
+	padding-left: 5px;
+	margin-bottom: 20px;
+	margin-top: 8px;
+	box-shadow: 0 0 5px #00F5FF;
+	border: 2px solid #00F5FF;
+}
+#register {
+font-size: 20px;
+margin-top: 15px;
+background:blue;
+border: 1px solid #0F799E;
+padding: 7px 35px;
+color: white;
+text-shadow: 0px 1px 0px #13506D;
+font-weight: bold;
+border-radius: 2px;
+cursor: pointer;
+width: 100%;
+}
+
+#container1{
+	margin:10px auto;
+    width:740px;
+    height:1000px;
+}
+#main1 {
+width: 520px;
+height:840px;
+margin-left:20px;
+float:left;
+border:2px orange solid;
+padding: 15px 55px 44px 35px;
+background-color:#FFCC99;
+font-size: 13px;
+}
+#logo{
+	margin-left: 190px;
+	margin-bottom:10px;
+	
+}
+
+#company1{margin-left:21%;margin-bottom:15px;color:green;}
+
+#container1 table { border-collapse: collapse;margin-left :52px;margin-bottom:25px; border: 1px solid green}
+#order-table { width: 80%; }
+
+#order-table th { padding: 5px; background: green; color: white; text-align: center; }
+#paymentlabel { padding: 5px; background: green; color: white; width:260px;border : 1px green solid; }
+#payment1 td input{text-align: center;}
+#order-table td input{ width: 75px; text-align: center;border: 2px solid green }
+#order-table tr.even td { background: #eee; }
+#order-table td .total-box, .total-box { border: 3px solid green; width: 75px; padding: 3px; margin: 5px 0 5px 0; text-align: center; font-size: 11px; }
+#buy input{ padding: 5px; background: green; color: white; text-align: center; border: 1px green solid;margin-left:50%}
+
+#payment1,#paymentlabel,#payment2 {     
+	margin : 10px 5px 400px 200px;
+	width: 260px;
+    margin: 10px auto;
+}
+
+#container2{
+      width:900px;
+      height:1000px;
+}
+#main2{
+	width:600px;
+	height:550px;
+	border:1px solid orange;
+	background-color:#FFCC99;
+	color:green;
+}
+#logo2{
+	margin-left: 190px;	margin-bottom:10px;margin-top:5px;
+}
+#company2 h2 {margin-left:120px}
+#company2 h3 {margin-left:140px}
+
+#header h1 { 
+			width :1200px;
+			height : 60px;
+			background-color:green;
+			color:orange;
+			text-align: center;
+		}
+
+#footer h4 { 
+			width :1200px;
+			height : 30px;
+			background-color:green;
+			color:orange;
+			text-align: center;
+		}

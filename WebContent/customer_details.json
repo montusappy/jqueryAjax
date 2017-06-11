@@ -1,0 +1,17 @@
+{
+	"c1" : {   
+			"customername":"ram",
+			"emailid":"ram@gmail.com",
+			"mobileno":"9494941234"
+		},
+	"c2" : {   
+			"customername":"kumar",
+			"emailid":"kumar@gmail.com",
+			"mobileno":"9394941234"
+		},
+	"c3" : {   
+			"customername":"rahul",
+			"emailid":"rahul@gmail.com",
+			"mobileno":"9294941234"
+		}
+}
